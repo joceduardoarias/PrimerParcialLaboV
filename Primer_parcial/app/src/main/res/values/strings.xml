@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">First Test</string>
+    <string name="user_list">User List</string>
+    <string name="edit_user">Edit User</string>
+    <string name="user_management">User Management</string>
+    <string name="tipo">Type</string>
+    <string name="administrador">Administrator</string>
+    <string name="usuario">User</string>
+    <string name="contrasena">Password</string>
+    <string name="confirmar_contrasena">Confirm Password</string>
+</resources>
